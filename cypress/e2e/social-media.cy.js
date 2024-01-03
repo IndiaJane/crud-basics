@@ -1,4 +1,4 @@
-describe('template spec', () => {
+describe('crud basics', () => {
     beforeEach(() => {
         cy.visit('http://127.0.0.1:5501/crud-basics/crud-index.html')
     })
