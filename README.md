@@ -2,7 +2,7 @@
 
 Exploring the fundamentals of CRUD while providing users the ability to post comments within a Social-Media inspired comment section.
 
-![alt text](https://github.com/IndiaJane/rock_paper_scissors/blob/main/images/social-media-app.jpg?raw=true)
+![alt text](https://github.com/IndiaJane/crud-basics/blob/main/images/social-media-app.jpg?raw=true)
 
 ### Languages Used
 
